@@ -1,3 +1,6 @@
+channels:
+  - conda-forge
+  - pyviz/label/dev
 dependencies:
   - bokeh
   - nbserverproxy
